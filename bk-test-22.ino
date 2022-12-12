@@ -30,7 +30,7 @@ void setup() {
 void loop() {
  
   // Set the number to display
-  sevseg.setNumber(6969);
+  sevseg.setNumber(21);
   // Refresh the display
   sevseg.refreshDisplay();
 }
